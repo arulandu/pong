@@ -1,0 +1,2 @@
+# Pong
+Hello! Welcome to this Pong repository containing the full source code for a spin-off of pong described in this [tutorial](https://youtu.be/o3UsRRQO8i4). This project was built in Unity Game Engine version `2021.1.2f1`.
